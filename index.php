@@ -10,6 +10,7 @@
 
 <body>
     <h1>Hello Word!</h1>
+    <p>ini adalah sebuah paragraph</p>
 </body>
 
 </html>
