@@ -11,6 +11,12 @@
 <body>
     <h1>Hello Word!</h1>
     <p>ini adalah sebuah paragraph</p>
+
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+        <li>tiga</li>
+    </ul>
 </body>
 
 </html>
